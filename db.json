@@ -1,28 +1,8 @@
 
 {
-   "fizinisSavininkai":[
-      {
-         "vardas":"Birute",
-         "pavarde":"Birutiene",
-         "bendraNuosavybesSutartis":false,
-         "asmensKodas":"",
-         "adresas":""
-      },
-      {
-         "vardas":"Aldona",
-         "pavarde":"Aldoniene",
-         "bendraNuosavybesSutartis":false,
-         "asmensKodas":"",
-         "adresas":""
-      }
-   ],
-   "juridinisSavininkai":[
-      {
-         "imonesKodas":"12345678",
-         "imonesPavadinimas":"Burundukas",
-         "adresas":"",
-         "multisavininkas":false,
-         "bendraturciuSutikimas":false
-      }
-   ]
+   "vardas":"Birute",
+   "pavarde":"Birutiene",
+   "bendraNuosavybesSutartis":false,
+   "asmensKodas":"",
+   "adresas":""
 }
